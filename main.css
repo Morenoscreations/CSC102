@@ -1,0 +1,45 @@
+/* Loretta Moreno 2.1 */
+
+   /* 2.1 header properties */
+
+       h1 {
+           margin: 0%;
+           padding: 14px 16px;
+           text-shadow: 5ch;
+           font-family: cursive;
+           font-size: xx-large;
+           text-decoration-line: underline;
+           text-decoration-color: rgb(255, 0, 170);
+           color: rgb(59, 0, 22);
+    
+}
+       
+    /*2.1 Body properties */
+
+        body{
+           background: radial-gradient( rgb(255, 73, 170), plum, white);
+           color: rgb(11, 0, 6); 
+           height: 6000px;
+           width: 200px;
+           padding: 5%;
+           line-height: 30px;
+           
+        }   
+
+     /*2.1 #memeImage properties */
+
+         #memeImage {
+             margin-right: 200px;
+         }
+
+
+
+
+
+/* 2.1 footers */
+       footer {
+           text-align: center;
+           padding: 3px;
+           background: linear-gradient(55deg, #ff006f 0%, #ff92e4 51%, #ffd2f6 85%);
+           color: rgb(0, 0, 0);
+}
